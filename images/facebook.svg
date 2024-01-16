@@ -1,0 +1,37 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="20" height="20" fill="#E5E5E5"/>
+<g id="Desktop" clip-path="url(#clip0_0_1)">
+<rect width="1280" height="4086" transform="translate(-26 -3781)" fill="white"/>
+<g id="5 &#208;&#177;&#208;&#187;&#208;&#190;&#208;&#186;">
+<g id="Group 416">
+<path id="Vector 6" d="M589.934 -470.078C572.424 -426.961 554.953 -379.251 506.197 -354.228C466.319 -333.761 410.954 -348.429 359.908 -359.596C286.583 -375.637 215.471 -398.954 152.129 -440.674C137.206 -450.503 118.269 -469.897 106.244 -482.199C82.7621 -506.225 58.4864 -524.533 28.0615 -542.978C-1.61761 -560.97 18.3539 -595.39 2.53118 -619.424" stroke="url(#paint0_linear_0_1)" stroke-opacity="0.2" stroke-width="205" stroke-linecap="round"/>
+</g>
+</g>
+<g id="6 &#208;&#177;&#208;&#187;&#208;&#190;&#208;&#186;">
+<rect id="Rectangle 12" x="-26" y="-306" width="1280" height="612" fill="#06071B"/>
+<g id="Group 417">
+</g>
+<g id="Group 433">
+<g id="Group 420">
+<circle id="Ellipse 28" cx="10" cy="10" r="20" fill="url(#paint1_linear_0_1)"/>
+<g id="facebook">
+<path id="Vector" d="M14.0002 1.66663H11.5002C10.3951 1.66663 9.33529 2.10561 8.55388 2.88701C7.77248 3.66842 7.3335 4.72822 7.3335 5.83329V8.33329H4.8335V11.6666H7.3335V18.3333H10.6668V11.6666H13.1668L14.0002 8.33329H10.6668V5.83329C10.6668 5.61228 10.7546 5.40032 10.9109 5.24404C11.0672 5.08776 11.2791 4.99996 11.5002 4.99996H14.0002V1.66663Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_1" x1="552.711" y1="-346.592" x2="44.2451" y2="-553.937" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00C5EB"/>
+<stop offset="1" stop-color="#B544FE"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_1" x1="-10.7969" y1="4.44433" x2="25.7839" y2="4.46191" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00C5EB"/>
+<stop offset="1" stop-color="#B544FE"/>
+</linearGradient>
+<clipPath id="clip0_0_1">
+<rect width="1280" height="4086" fill="white" transform="translate(-26 -3781)"/>
+</clipPath>
+</defs>
+</svg>

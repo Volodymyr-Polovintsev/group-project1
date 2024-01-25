@@ -1,0 +1,57 @@
+body {
+    font-family: "Inter", sans-serif;
+}
+
+ul {
+    text-decoration: none;
+}
+
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\ */
+
+/* /\/\/\/\/\/\ TEAM /\/\/\/\/\/\/\ */
+
+.team-title {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.team-text {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5em;
+}
+
+.team-item {
+    display: block;
+    border-radius: 15px;
+    background: linear-gradient(313deg, rgba(0, 197, 235, 0.50) -0.2%, rgba(181, 68, 254, 0.50) 112.66%), #06071B;
+    backdrop-filter: blur(17.5px);
+    max-width: 288px;
+}
+
+
+.team-list {}
+
+.team-picture {
+    border-radius: 10px;
+}
+
+.team-name {
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+}
+
+.team-position {
+    color: #FFF;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.71em;
+}
+
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\ */
